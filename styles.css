@@ -125,3 +125,7 @@ form {
 .noTasks {
   font-size: 48px;
 }
+
+.line {
+  text-decoration: line-through;
+}
